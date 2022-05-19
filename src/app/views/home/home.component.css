@@ -1,0 +1,121 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/* Menu */
+nav{
+    text-align: right;
+    margin-right: 90px;
+    font-family: 'Roboto', sans-serif;
+}
+/* Header */
+header{
+    background-color: #C2C7F1;
+    padding: 0px;
+    text-align: center;
+    height: 260px;  
+    margin-bottom: -160px; 
+    width: 100%;
+    margin-top: 0px;
+}
+/* Logo Game Mania */
+.Logo{
+    text-align: left;
+    margin-left: 70px;
+    margin-top: -20px;
+}
+/* Menu */
+.Bem-vindo{
+    margin-top: -100px;
+    font-family: 'Roboto', sans-serif;
+}
+/* Menu */
+.Login{
+    text-align: right;
+    margin-right: 140px;
+    margin-top: -30px;
+    font-family: 'Roboto', sans-serif;
+}
+/* Menu */
+.Carrinho{
+    text-align: right;
+    margin-right: 10px;
+    margin-top: -35px;
+}
+/* Campo de pesquisa */
+.divBusca{
+    background-color:#f8fafa;
+    border:solid 1px;
+    border-radius:15px;
+    width:300px; 
+  }
+/* Texto campo de pesquisa */
+  .txtBusca{
+    float:left;
+    background-color:transparent;
+    padding-left:5px;
+    font-style:italic;
+    font-size:18px;
+    border:none;
+    font-family: 'Roboto', sans-serif;
+  }
+/* Banner */
+.Banner{
+    top: 0px;
+    position: relative;
+    background-repeat: no-repeat;
+    background-position: center;
+    text-align: center;
+    bottom: 0px;
+    margin-bottom: 0px;
+    width: 100%;
+    background-color: #c2c7f1;
+}
+/* Banner */
+.Destaque{
+    top: -455px;
+    position: relative;
+    background-repeat: no-repeat;
+    background-position: center;
+    text-align: center;
+}
+/* Destaque */
+section{
+    background-color: #C2C7F1;
+    text-align: center;
+    padding-top: 20px;
+    margin-top: -460px;
+    width: 100%;
+}
+/* Novidades */
+.novidades{
+    background-position: center;
+    text-align: center;
+    margin: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    width: 100%;
+}
+/* Rodapé */
+footer{
+    background-color: #C2C7F1;
+    padding: 10px;
+    font-family: 'Roboto', sans-serif;
+    height: 510px;
+    padding-top: 50px;
+    width: 100%;
+    margin-left: 0px;
+    margin: -10px;
+}
+/* Responsividade */
+@media only screen and (max-device-width: 1920px) {
+}
+
+@media only screen and (min-width: 320px) and (max-width: 1920px){
+}
+    body {
+        background-color: #C2C7F1;
+}
